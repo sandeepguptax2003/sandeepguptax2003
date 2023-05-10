@@ -1,7 +1,5 @@
 [![](https://visitcount.itsvg.in/api?id=sandeepguptax2003&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![Social banner for sandeepguptax2003](https://github.com/sandeepguptax2003/sandeepguptax2003/assets/images/portfolio-header-gif.mp4)](https://github.com/sandeepguptax2003)
-
 <h1 align="center">Hi 👋, I'm Sandeep</h1>
 <h3 align="center">A passionate Full-Stack Web Developer from India</h3>
 
