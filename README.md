@@ -1,15 +1,36 @@
-[![](https://visitcount.itsvg.in/api?id=sandeepguptax2003&icon=0&color=0)](https://visitcount.itsvg.in)
+<h1 align="center">
+  <img
+    src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif"
+    alt="GIF 1"
+    width="300"
+    height="300"
+  />
+  <img
+    src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"
+    alt="GIF 3"
+    width="300"
+    height="300"
+  />
+  <img
+    src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
+    alt="GIF 2"
+    width="300"
+    height="300"
+  />
+</h1>
+
 
 <h1 align="center">Hi 👋, I'm Sandeep</h1>
-<h3 align="center">A passionate Full-Stack Web Developer from India</h3>
+<h3 align="center">Transforming concepts into reality with the power of Full-Stack Web Development, proudly from India</h3>
 
 # 💫 About Me:
 
-🌱 I’m currently learning MySql<br><br>👨‍💻 All of my projects are available at https://sandeepguptax2003.github.io/<br><br>💬 Ask me about HTML/CSS/JS<br><br>📫 How to reach me sandeepguptax2003@gmail.com
+🌱 I’m currently learning React<br><br>👨‍💻 All of my projects are available at https://sandeepguptax2003.github.io/<br><br>📫 How to reach me sandeepguptax2003@gmail.com
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sandeep-gupta) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sandeepx2003)
+[<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" width="100">](https://linkedin.com/in/sandeep-gupta)
+[<img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="Twitter" width="100">](https://twitter.com/sandeepx2003)
 
 # 💻 Tech Stack & Tools:
 
