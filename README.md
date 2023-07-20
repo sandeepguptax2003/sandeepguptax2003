@@ -2,19 +2,19 @@
   <img
     src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif"
     alt="GIF 1"
-    width="300"
+    width="250"
     height="300"
   />
   <img
     src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"
     alt="GIF 3"
-    width="300"
+    width="250"
     height="300"
   />
   <img
     src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
     alt="GIF 2"
-    width="300"
+    width="250"
     height="300"
   />
 </h1>
