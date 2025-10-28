@@ -34,7 +34,7 @@
 
 - 📫 Reach me at *sandeepguptax2003@gmail.com*
 
-- 📄 Know more about me [Resume](https://drive.google.com/file/d/1m5Stx1jXQCOkVNp48FtCIipupJ4lRGTx/view?usp=drivesdk)
+- 📄 Know more about me [Resume](https://drive.google.com/file/d/1VVz0wIJVBMqlF4hXXj0UAXUqNxUwT0Jr/view?usp=sharing)
   
 ## 🌐 Socials:
 
