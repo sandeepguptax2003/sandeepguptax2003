@@ -16,7 +16,7 @@
 [![Gmail](https://img.shields.io/badge/📧_EMAIL-c27828?style=for-the-badge&logoColor=white)](mailto:sandeepguptax2003@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sandeep-gupta)
 [![Twitter](https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sandeepx2003)
-[![Resume](https://img.shields.io/badge/📄_RESUME-e8a84c?style=for-the-badge&logoColor=white)](https://drive.google.com/file/d/1G8Q2FGZyhUg2IztQ0vv6Eo3bGWrWlBY6/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/📄_RESUME-e8a84c?style=for-the-badge&logoColor=white)](https://drive.google.com/file/d/1pIJoBobAq9YoVSvlR9VQFqSl_vku1bZK/view?usp=sharing)
 
 </div>
 
