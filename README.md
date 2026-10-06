@@ -20,6 +20,14 @@
 
 Backend-focused Full Stack Developer and AI Engineer with 2.5+ years shipping production systems — REST APIs, React/Next.js frontends, and LLM-powered features on Node.js and Express. Sole engineer on **Zappio**, an AI voice-calling platform handling 1,000+ automated calls/day for 15+ business clients. Comfortable across AI providers (OpenAI, Claude, Gemini), system architecture, performance optimization, and cloud deployment on AWS and Google Cloud.
 
+<div align="center">
+
+**▶ Tap to watch my intro**
+
+https://github.com/user-attachments/assets/8cae4327-8192-45f1-b468-21f85c9beadb
+
+</div>
+
 <br/>
 
 ## Experience
